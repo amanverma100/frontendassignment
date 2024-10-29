@@ -51,7 +51,7 @@
   
   .user-avatar {
     display: flex;
-    align-items: center;
+    align-items: center; 
     position: relative;
   }
   
@@ -77,7 +77,7 @@
   }
   
   @media (max-width: 600px) {
-    .column {
+    .col {
       /* flex-direction: row;
       align-items: center;
       overflow-x: auto;
